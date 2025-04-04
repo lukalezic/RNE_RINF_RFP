@@ -427,7 +427,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## areaSeaport
-Is the facility located int Sea Port Area?
+Is the facility located in Sea Port area?
 ### General Information
 
 **Number**: 1.1.6.2.7
@@ -486,7 +486,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## areaInlandPort
-Is the facility located int in Land port Area 
+Inland Port area.
 ### General Information
 
 **Number**: 1.1.4.1.92
@@ -538,7 +538,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## areaFreightVillage
-The areafreightvillage
+Freight Village area.
 ### General Information
 
 **Number**: 1.1.8.9.53
@@ -590,7 +590,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## exempted
-The exempted
+Facility/operator exempted according Reg. (EU) 2017/2177, Art. 2.
 ### General Information
 
 **Number**: 1.1.7.5.17
@@ -642,7 +642,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## linkToAdditionalDocuments
-The linktoadditionaldocuments
+Link where additional documents are published.
 ### General Information
 
 **Number**: 1.1.2.2.82
@@ -694,7 +694,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## purposeOfSfDeclaration
-The purposeofsfdeclaration
+Purpose of this SF description.
 ### General Information
 
 **Number**: 1.1.6.7.30
@@ -746,7 +746,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## briefPresentation
-The briefpresentation
+Brief presentation of the SF.
 ### General Information
 
 **Number**: 1.1.2.9.28
@@ -798,7 +798,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operatorName
-The operatorname
+Facility operator (name).
 ### General Information
 
 **Number**: 1.1.2.6.21
@@ -850,7 +850,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operator
-The operator
+Facility operator (RICS).
 ### General Information
 
 **Number**: 1.1.5.7.12
@@ -902,7 +902,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operatorType
-The operatortype
+Type of operator.
 ### General Information
 
 **Number**: 1.1.9.5.62
@@ -954,7 +954,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operatorOtherType
-The operatorothertype
+Other type of operator.
 ### General Information
 
 **Number**: 1.1.7.7.26
@@ -1006,7 +1006,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operatorContact
-The operatorcontact
+Contact person.
 ### General Information
 
 **Number**: 1.1.4.1.99
@@ -1058,7 +1058,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operatorPhone
-The operatorphone
+Phone.
 ### General Information
 
 **Number**: 1.1.1.8.44
@@ -1110,7 +1110,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operatorFax
-The operatorfax
+Fax.
 ### General Information
 
 **Number**: 1.1.8.9.13
@@ -1162,7 +1162,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operatorEmail
-The operatoremail
+Email.
 ### General Information
 
 **Number**: 1.1.3.7.86
@@ -1214,7 +1214,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operatorWebsite
-The operatorwebsite
+Website.
 ### General Information
 
 **Number**: 1.1.6.5.42
@@ -1266,7 +1266,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## facilityOwner
-The facilityowner
+Facility owner (name).
 ### General Information
 
 **Number**: 1.1.9.3.64
@@ -1318,7 +1318,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## ownerType
-The ownertype
+Type of owner.
 ### General Information
 
 **Number**: 1.1.4.5.98
@@ -1370,7 +1370,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## ownerOtherType
-The ownerothertype
+Other type of owner.
 ### General Information
 
 **Number**: 1.1.4.6.17
@@ -1422,7 +1422,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operatorsRelation
-The operatorsrelation
+Explanantion of the relation between several operators, if relevant.
 ### General Information
 
 **Number**: 1.1.9.6.37
@@ -1474,7 +1474,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## sfDataValidUntil
-The sfdatavaliduntil
+SF data is valid until.
 ### General Information
 
 **Number**: 1.1.6.1.75
@@ -1526,7 +1526,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## sfDataUpdateProcedure
-The sfdataupdateprocedure
+Describe how the SF data is updated.
 ### General Information
 
 **Number**: 1.1.7.8.59
@@ -1578,7 +1578,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## dateForUpdate
-The dateforupdate
+Date for update.
 ### General Information
 
 **Number**: 1.1.7.9.38
@@ -1630,7 +1630,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## applyCompliance
-The applycompliance
+Data provision according to Reg. (EU) 2017/2177.
 ### General Information
 
 **Number**: 1.1.9.5.2
@@ -1682,7 +1682,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## complianceConfirmed
-The complianceconfirmed
+Data provided according to Reg. (EU) 2017/2177.
 ### General Information
 
 **Number**: 1.1.8.8.42
@@ -1734,7 +1734,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## locomotiveCleaning
-The locomotivecleaning
+Locomotive cleaning.
 ### General Information
 
 **Number**: 1.1.9.5.53
@@ -1786,7 +1786,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## wagonCleaning
-The wagoncleaning
+Wagon cleaning.
 ### General Information
 
 **Number**: 1.1.5.1.95
@@ -1838,7 +1838,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## locomotiveParking
-The locomotiveparking
+Locomotive parking.
 ### General Information
 
 **Number**: 1.1.3.3.6
@@ -1890,7 +1890,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## wagonParking
-The wagonparking
+Wagon parking.
 ### General Information
 
 **Number**: 1.1.4.4.52
@@ -1942,7 +1942,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## locomotiveRepairMaintenanceLight
-The locomotiverepairmaintenancelight
+Locomotive repair/maintenance (light maintenance).
 ### General Information
 
 **Number**: 1.1.8.6.45
@@ -1994,7 +1994,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## locomotiveRepairMaintenanceHeavy
-The locomotiverepairmaintenanceheavy
+Locomotive repair/maintenance (heavy maintenance).
 ### General Information
 
 **Number**: 1.1.7.1.6
@@ -2046,7 +2046,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## wagonRepairMaintenanceLight
-The wagonrepairmaintenancelight
+Wagon repair/maintenance (light maintenance).
 ### General Information
 
 **Number**: 1.1.4.6.92
@@ -2098,7 +2098,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## wagonRepairMaintenanceHeavy
-The wagonrepairmaintenanceheavy
+Wagon repair/maintenance (heavy maintenance).
 ### General Information
 
 **Number**: 1.1.2.3.10
@@ -2150,7 +2150,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## technicalInspectionOfRollingStock
-The technicalinspectionofrollingstock
+Technical inspection of rolling stock.
 ### General Information
 
 **Number**: 1.1.5.4.89
@@ -2202,7 +2202,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## refuelling
-The refuelling
+Refuelling.
 ### General Information
 
 **Number**: 1.1.3.9.47
@@ -2254,7 +2254,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## shunting
-The shunting
+Shunting.
 ### General Information
 
 **Number**: 1.1.3.5.84
@@ -2306,7 +2306,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## provisionEmergencyEquipment
-The provisionemergencyequipment
+Provision of emergency equipment.
 ### General Information
 
 **Number**: 1.1.2.1.69
@@ -2358,7 +2358,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## securityServices
-The securityservices
+Security services.
 ### General Information
 
 **Number**: 1.1.2.1.31
@@ -2410,7 +2410,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## tractionCurrent
-The tractioncurrent
+Traction current (extra charges).
 ### General Information
 
 **Number**: 1.1.4.6.37
@@ -2462,7 +2462,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## accessToTelecommunicationNetworks
-The accesstotelecommunicationnetworks
+Access to telecommunication networks.
 ### General Information
 
 **Number**: 1.1.3.8.87
@@ -2514,7 +2514,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## provisionSupplementaryInformation
-The provisionsupplementaryinformation
+Provision of supplementary information.
 ### General Information
 
 **Number**: 1.1.6.2.4
@@ -2566,7 +2566,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## otherServices
-The otherservices
+Other services.
 ### General Information
 
 **Number**: 1.1.9.4.22
@@ -2618,7 +2618,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## descriptionOfServices
-The descriptionofservices
+Description of services.
 ### General Information
 
 **Number**: 1.1.4.6.35
@@ -2670,7 +2670,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## timetableServiceTrains
-The timetableservicetrains
+Timetable for service trains.
 ### General Information
 
 **Number**: 1.1.9.1.67
@@ -2722,7 +2722,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## facilityCertificates
-The facilitycertificates
+Facility certificates.
 ### General Information
 
 **Number**: 1.1.4.6.44
@@ -2774,7 +2774,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## loadingUnloadingTranshipment
-The loadingunloadingtranshipment
+Loading/unloading/transhipment.
 ### General Information
 
 **Number**: 1.1.7.5.89
@@ -2826,7 +2826,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## loadingUnitCleaning
-The loadingunitcleaning
+Loading unit cleaning.
 ### General Information
 
 **Number**: 1.1.9.6.74
@@ -2878,7 +2878,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## loadingUnitFumigationDisinfection
-The loadingunitfumigationdisinfection
+Loading unit fumigation, disinfection.
 ### General Information
 
 **Number**: 1.1.4.9.82
@@ -2930,7 +2930,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## loadingUnitRepairMaintenance
-The loadingunitrepairmaintenance
+Loading unit repair/maintenance.
 ### General Information
 
 **Number**: 1.1.2.4.22
@@ -2982,7 +2982,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## loadingUnitVentilation
-The loadingunitventilation
+Loading unit ventilation.
 ### General Information
 
 **Number**: 1.1.6.2.82
@@ -3034,7 +3034,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## orderPickingWarehousing
-The orderpickingwarehousing
+Order picking, warehousing.
 ### General Information
 
 **Number**: 1.1.4.8.65
@@ -3086,7 +3086,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## storageContainersGeneralCargo
-The storagecontainersgeneralcargo
+Storage of containers/general cargo.
 ### General Information
 
 **Number**: 1.1.7.1.4
@@ -3138,7 +3138,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## storageDangerousGoods
-The storagedangerousgoods
+Storage of dangerous goods.
 ### General Information
 
 **Number**: 1.1.8.9.8
@@ -3190,7 +3190,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## storageRidClasses
-The storageridclasses
+RID classes.
 ### General Information
 
 **Number**: 1.1.4.2.6
@@ -3242,7 +3242,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## storageHandlingReefers
-The storagehandlingreefers
+Storage and handling of Reefers.
 ### General Information
 
 **Number**: 1.1.3.3.22
@@ -3294,7 +3294,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## stuffingStripping
-The stuffingstripping
+Stuffing/Stripping.
 ### General Information
 
 **Number**: 1.1.4.6.90
@@ -3346,7 +3346,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## containerLashing
-The containerlashing
+Container lashing.
 ### General Information
 
 **Number**: 1.1.2.9.18
@@ -3398,7 +3398,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## weighingWagonsLoadingUnits
-The weighingwagonsloadingunits
+Weighing of wagons/Loading units.
 ### General Information
 
 **Number**: 1.1.5.9.34
@@ -3450,7 +3450,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## containerSalesLeasing
-The containersalesleasing
+Container sales/leasing.
 ### General Information
 
 **Number**: 1.1.4.3.56
@@ -3502,7 +3502,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## customsClearance
-The customsclearance
+Customs clearance.
 ### General Information
 
 **Number**: 1.1.3.2.37
@@ -3554,7 +3554,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## trucking
-The trucking
+Trucking (Organisation Pre-/End-haulage).
 ### General Information
 
 **Number**: 1.1.6.3.49
@@ -3606,7 +3606,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## tailormadeContractsDangerousGoods
-The tailormadecontractsdangerousgoods
+Tailor-made contracts for control of transport of dangerous goods.
 ### General Information
 
 **Number**: 1.1.1.8.21
@@ -3658,7 +3658,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## tailormadeContractsAbnormalTrains
-The tailormadecontractsabnormaltrains
+Tailor-made contracts for assistance in running abnormal trains.
 ### General Information
 
 **Number**: 1.1.8.9.52
@@ -3710,7 +3710,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## trainBoardingDeboarding
-The trainboardingdeboarding
+Train boarding and deboarding.
 ### General Information
 
 **Number**: 1.1.5.7.99
@@ -3762,7 +3762,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## ticketingServices
-The ticketingservices
+Ticketing services.
 ### General Information
 
 **Number**: 1.1.8.5.94
@@ -3814,7 +3814,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## assistanceForPersonsWithReducedMobility
-The assistanceforpersonswithreducedmobility
+Assistance for persons with reduced mobility.
 ### General Information
 
 **Number**: 1.1.8.2.44
@@ -3866,7 +3866,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## lostAndFound
-The lostandfound
+Lost & Found.
 ### General Information
 
 **Number**: 1.1.7.3.45
@@ -3918,7 +3918,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## luggageStoring
-The luggagestoring
+Luggage storing.
 ### General Information
 
 **Number**: 1.1.4.1.32
@@ -3970,7 +3970,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## waitingAreasAndWeaterProtection
-The waitingareasandweaterprotection
+Waiting areas and weather protection.
 ### General Information
 
 **Number**: 1.1.3.1.91
@@ -4022,7 +4022,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## iceProtection
-The iceprotection
+Ice protection
 ### General Information
 
 **Number**: 1.1.8.9.95
@@ -4074,7 +4074,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## preHeatingPreCooling
-The preheatingprecooling
+Pre-heating and pre-cooling of passenger trains.
 ### General Information
 
 **Number**: 1.1.2.1.85
@@ -4126,7 +4126,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## sewageDisposalWaterSupply
-The sewagedisposalwatersupply
+Sewage disposal and water supply.
 ### General Information
 
 **Number**: 1.1.6.7.54
@@ -4178,7 +4178,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## useOfMotorailFacilities
-The useofmotorailfacilities
+Use of motorail facilities.
 ### General Information
 
 **Number**: 1.1.8.3.31
@@ -4230,7 +4230,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## longitude
-The longitude
+Longitude.
 ### General Information
 
 **Number**: 1.1.4.7.54
@@ -4282,7 +4282,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## latitude
-The latitude
+Latitude.
 ### General Information
 
 **Number**: 1.1.6.9.39
@@ -4334,7 +4334,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## crdPrimaryLocation
-The crdprimarylocation
+CRD primary  location ID.
 ### General Information
 
 **Number**: 1.1.6.9.20
@@ -4386,7 +4386,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## crdSubsidiaryLocation
-The crdsubsidiarylocation
+CRD subsidiary location ID.
 ### General Information
 
 **Number**: 1.1.8.9.74
@@ -4438,7 +4438,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## rinfOperationalPoint
-The rinfoperationalpoint
+RINF operational point.
 ### General Information
 
 **Number**: 1.1.5.4.50
@@ -4490,7 +4490,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## facilityStreet
-The facilitystreet
+Street, house number
 ### General Information
 
 **Number**: 1.1.4.6.35
@@ -4542,7 +4542,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## facilityZip
-The facilityzip
+ZIP code.
 ### General Information
 
 **Number**: 1.1.2.5.72
@@ -4594,7 +4594,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## facilityTown
-The facilitytown
+Town.
 ### General Information
 
 **Number**: 1.1.9.6.43
@@ -4646,7 +4646,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## facilityCountry
-The facilitycountry
+Country.
 ### General Information
 
 **Number**: 1.1.2.5.43
@@ -4698,7 +4698,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## connectionToPublicRailNetwork
-The connectiontopublicrailnetwork
+Connection of facility to public rail network.
 ### General Information
 
 **Number**: 1.1.4.1.54
@@ -4750,7 +4750,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## facilityLocatedOnRfc
-The facilitylocatedonrfc
+Facility located on RFC.
 ### General Information
 
 **Number**: 1.1.4.3.45
@@ -4802,7 +4802,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## roadAccessConditions
-The roadaccessconditions
+Conditions for road access.
 ### General Information
 
 **Number**: 1.1.9.6.76
@@ -4854,7 +4854,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operationStatus
-The operationstatus
+Facility operation status.
 ### General Information
 
 **Number**: 1.1.7.2.62
@@ -4906,7 +4906,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## openingTimes
-The openingtimes
+Facility opening times.
 ### General Information
 
 **Number**: 1.1.3.5.81
@@ -4958,7 +4958,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## openOnDemand
-The openondemand
+Facility open on demand.
 ### General Information
 
 **Number**: 1.1.7.6.51
@@ -5010,7 +5010,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## totalNumberOfTracks
-The totalnumberoftracks
+All facility tracks: number.
 ### General Information
 
 **Number**: 1.1.8.6.33
@@ -5062,7 +5062,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## totalNumberOfPlatformTracks
-The totalnumberofplatformtracks
+Platform tracks: number.
 ### General Information
 
 **Number**: 1.1.3.6.63
@@ -5114,7 +5114,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## thereofElectrifiedPlatformTracks
-The thereofelectrifiedplatformtracks
+Platform tracks: thereof electrified.
 ### General Information
 
 **Number**: 1.1.1.6.16
@@ -5166,7 +5166,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxUsableLengthPlatformTracks
-The maxusablelengthplatformtracks
+Platform tracks: max. usable length [m]
 ### General Information
 
 **Number**: 1.1.5.8.79
@@ -5218,7 +5218,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## totalNumberOfTranshipmentTracks
-The totalnumberoftranshipmenttracks
+Transhipment tracks: number.
 ### General Information
 
 **Number**: 1.1.2.8.56
@@ -5270,7 +5270,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## thereofElectrifiedTranshipmentTracks
-The thereofelectrifiedtranshipmenttracks
+Transhipment tracks: thereof electrified.
 ### General Information
 
 **Number**: 1.1.4.6.35
@@ -5322,7 +5322,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxUsableLengthTranshipmentTracks
-The maxusablelengthtranshipmenttracks
+Transhipment tracks: max. usable length [m].
 ### General Information
 
 **Number**: 1.1.4.5.38
@@ -5374,7 +5374,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## totalNumberOfStorageTracks
-The totalnumberofstoragetracks
+Storage tracks: number.
 ### General Information
 
 **Number**: 1.1.9.9.87
@@ -5426,7 +5426,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## thereofElectrifiedStorageTracks
-The thereofelectrifiedstoragetracks
+Storage tracks: thereof electrified.
 ### General Information
 
 **Number**: 1.1.3.1.91
@@ -5478,7 +5478,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxUsableLengthStorageTracks
-The maxusablelengthstoragetracks
+Storage tracks: max. usable length [m].
 ### General Information
 
 **Number**: 1.1.6.1.20
@@ -5530,7 +5530,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## totalNumberOfShuntingTracks
-The totalnumberofshuntingtracks
+Shunting tracks: number.
 ### General Information
 
 **Number**: 1.1.2.3.27
@@ -5582,7 +5582,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## thereofElectrifiedShuntingTracks
-The thereofelectrifiedshuntingtracks
+Shunting tracks: thereof electrified.
 ### General Information
 
 **Number**: 1.1.1.3.35
@@ -5634,7 +5634,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxUsableLengthShuntingTracks
-The maxusablelengthshuntingtracks
+Shunting tracks: max. usable length [m]
 ### General Information
 
 **Number**: 1.1.3.8.63
@@ -5686,7 +5686,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## totalNumberOfInboundOutboundTracks
-The totalnumberofinboundoutboundtracks
+Inbound + Outbound tracks: number.
 ### General Information
 
 **Number**: 1.1.3.7.38
@@ -5738,7 +5738,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## thereofElectrifiedInboundOutboundTracks
-The thereofelectrifiedinboundoutboundtracks
+Inbound + Outbound tracks: thereof electrified.
 ### General Information
 
 **Number**: 1.1.5.1.56
@@ -5790,7 +5790,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxUsableLengthInboundOutboundTracks
-The maxusablelengthinboundoutboundtracks
+Inbound + Outbound tracks: max. usable length [m].
 ### General Information
 
 **Number**: 1.1.9.4.38
@@ -5842,7 +5842,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## totalNumberOfAllocationTracks
-The totalnumberofallocationtracks
+Allocation tracks: number.
 ### General Information
 
 **Number**: 1.1.9.2.51
@@ -5894,7 +5894,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## thereofElectrifiedAllocationTracks
-The thereofelectrifiedallocationtracks
+Allocation tracks: thereof electrified.
 ### General Information
 
 **Number**: 1.1.6.2.22
@@ -5946,7 +5946,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxUsableLengthAllocationTracks
-The maxusablelengthallocationtracks
+Allocation tracks: max. usable length [m].
 ### General Information
 
 **Number**: 1.1.3.2.96
@@ -5998,7 +5998,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## totalNumberOfOtherTracks
-The totalnumberofothertracks
+Other tracks: number.
 ### General Information
 
 **Number**: 1.1.6.6.57
@@ -6050,7 +6050,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## thereofElectrifiedOtherTracks
-The thereofelectrifiedothertracks
+Other tracks: thereof electrified.
 ### General Information
 
 **Number**: 1.1.3.2.49
@@ -6102,7 +6102,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxUsableLengthOtherTracks
-The maxusablelengthothertracks
+Other tracks: max. usable length [m].
 ### General Information
 
 **Number**: 1.1.3.7.16
@@ -6154,7 +6154,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## descriptionOfTechnicalCharacteristics
-The descriptionoftechnicalcharacteristics
+Description of the technical characteristics of the facility.
 ### General Information
 
 **Number**: 1.1.9.6.34
@@ -6206,7 +6206,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## technicalMap
-The technicalmap
+Technical map.
 ### General Information
 
 **Number**: 1.1.7.4.94
@@ -6258,7 +6258,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## brakeTestFacility
-The braketestfacility
+Brake test facility.
 ### General Information
 
 **Number**: 1.1.8.1.56
@@ -6310,7 +6310,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## compressedAirSupply
-The compressedairsupply
+Compressed air supply.
 ### General Information
 
 **Number**: 1.1.1.2.64
@@ -6362,7 +6362,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## turntable
-The turntable
+Turntable.
 ### General Information
 
 **Number**: 1.1.9.5.8
@@ -6414,7 +6414,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## locomotiveWashingCleaning
-The locomotivewashingcleaning
+Washing/cleaning equipment for locomotives.
 ### General Information
 
 **Number**: 1.1.4.7.31
@@ -6466,7 +6466,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## wagonWashingCleaning
-The wagonwashingcleaning
+Washing/cleaning equipment for  wagons.
 ### General Information
 
 **Number**: 1.1.6.7.74
@@ -6518,7 +6518,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## loadingUnitWashingCleaning
-The loadingunitwashingcleaning
+Washing/cleaning equipment for loading units.
 ### General Information
 
 **Number**: 1.1.3.4.84
@@ -6570,7 +6570,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maintenanceShopLight
-The maintenanceshoplight
+Maintenance shop (light maintenance).
 ### General Information
 
 **Number**: 1.1.3.7.89
@@ -6622,7 +6622,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maintenanceShopHeavy
-The maintenanceshopheavy
+Maintenance shop (heavy maintenance).
 ### General Information
 
 **Number**: 1.1.5.6.2
@@ -6674,7 +6674,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## otherEquipment
-The otherequipment
+Other Equipment.
 ### General Information
 
 **Number**: 1.1.1.4.48
@@ -6726,7 +6726,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## descriptionTechnicalEquipment
-The descriptiontechnicalequipment
+Description of technical equipment (particularly washing, maintenance).
 ### General Information
 
 **Number**: 1.1.2.7.43
@@ -6778,7 +6778,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## numberOfGantryCranes
-The numberofgantrycranes
+Number of (gantry) cranes.
 ### General Information
 
 **Number**: 1.1.5.6.83
@@ -6830,7 +6830,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## numberOfMobileCranes
-The numberofmobilecranes
+Number of mobile cranes.
 ### General Information
 
 **Number**: 1.1.3.8.71
@@ -6882,7 +6882,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## horizontalTranshipmentSystems
-The horizontaltranshipmentsystems
+Horizontal transhipment systems.
 ### General Information
 
 **Number**: 1.1.3.9.47
@@ -6934,7 +6934,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## headRamp
-The headramp
+Head ramp.
 ### General Information
 
 **Number**: 1.1.8.5.84
@@ -6986,7 +6986,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## sideRamp
-The sideramp
+Side ramp.
 ### General Information
 
 **Number**: 1.1.5.8.94
@@ -7038,7 +7038,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## loadingLane
-The loadinglane
+Loading Lane.
 ### General Information
 
 **Number**: 1.1.7.2.97
@@ -7090,7 +7090,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## hump
-The hump
+Hump.
 ### General Information
 
 **Number**: 1.1.8.8.15
@@ -7142,7 +7142,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## trackScale
-The trackscale
+Trackscale.
 ### General Information
 
 **Number**: 1.1.2.5.78
@@ -7194,7 +7194,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## opticalCharacterRecognition
-The opticalcharacterrecognition
+Optical character recognition.
 ### General Information
 
 **Number**: 1.1.5.7.59
@@ -7246,7 +7246,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## numberOfReeferConnections
-The numberofreeferconnections
+Number of reefer connections.
 ### General Information
 
 **Number**: 1.1.3.2.16
@@ -7298,7 +7298,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## storageAreaM2
-The storageaream2
+Storage area [m²].
 ### General Information
 
 **Number**: 1.1.2.9.22
@@ -7350,7 +7350,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## storageAreaTeu
-The storageareateu
+Storage area [TEU].
 ### General Information
 
 **Number**: 1.1.8.8.5
@@ -7402,7 +7402,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## emptyContainerDepot
-The emptycontainerdepot
+Empty container depot.
 ### General Information
 
 **Number**: 1.1.2.5.88
@@ -7454,7 +7454,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## numberOfPlatforms
-The numberofplatforms
+Number of platforms.
 ### General Information
 
 **Number**: 1.1.2.1.90
@@ -7506,7 +7506,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxPlatformLength
-The maxplatformlength
+Max. platform length [m].
 ### General Information
 
 **Number**: 1.1.9.6.50
@@ -7558,7 +7558,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxPlatformHeight
-The maxplatformheight
+Max. platform height [mm].
 ### General Information
 
 **Number**: 1.1.7.5.37
@@ -7610,7 +7610,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## minPlatformHeight
-The minplatformheight
+Min. platform height [mm].
 ### General Information
 
 **Number**: 1.1.6.1.44
@@ -7662,7 +7662,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## escalatorRampForPlatformAccess
-The escalatorrampforplatformaccess
+Escalator/ramp for platform access.
 ### General Information
 
 **Number**: 1.1.2.3.74
@@ -7714,7 +7714,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## weatherProtectionForPassengers
-The weatherprotectionforpassengers
+Weather protection for passengers.
 ### General Information
 
 **Number**: 1.1.6.4.56
@@ -7766,7 +7766,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## plannedChangesTechnicalCharacteristics
-The plannedchangestechnicalcharacteristics
+Planned changes in technical characteristics.
 ### General Information
 
 **Number**: 1.1.4.3.75
@@ -7818,7 +7818,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## informationOnCharges
-The informationoncharges
+Information on charges.
 ### General Information
 
 **Number**: 1.1.4.2.55
@@ -7870,7 +7870,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## informationOnDiscounts
-The informationondiscounts
+Information on discounts.
 ### General Information
 
 **Number**: 1.1.1.8.31
@@ -7922,7 +7922,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## publicAccessibility
-The publicaccessibility
+Public accessibility.
 ### General Information
 
 **Number**: 1.1.8.3.56
@@ -7974,7 +7974,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## legalRequirements
-The legalrequirements
+Legal requirements.
 ### General Information
 
 **Number**: 1.1.4.8.22
@@ -8026,7 +8026,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## electrifiedRailAccessPossible
-The electrifiedrailaccesspossible
+Electrified rail access possible.
 ### General Information
 
 **Number**: 1.1.8.5.43
@@ -8078,7 +8078,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxPermittedTrainLength
-The maxpermittedtrainlength
+Max. permitted train length [m].
 ### General Information
 
 **Number**: 1.1.6.2.50
@@ -8130,7 +8130,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## maxPermittedAxleLoad
-The maxpermittedaxleload
+Max. permitted axle load [t].
 ### General Information
 
 **Number**: 1.1.2.7.51
@@ -8182,7 +8182,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## minTrackRadius
-The mintrackradius
+Min. track radius [m].
 ### General Information
 
 **Number**: 1.1.3.4.16
@@ -8234,7 +8234,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## clearanceGauge
-The clearancegauge
+Clearance gauge.
 ### General Information
 
 **Number**: 1.1.1.8.62
@@ -8286,7 +8286,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## lengthOfAccessBranchLine
-The lengthofaccessbranchline
+Length of access/branch line [km].
 ### General Information
 
 **Number**: 1.1.7.4.10
@@ -8338,7 +8338,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## accessLineElectrification
-The accesslineelectrification
+Access line electrification.
 ### General Information
 
 **Number**: 1.1.3.1.25
@@ -8390,7 +8390,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## accessLineMaxPermittedTrainLength
-The accesslinemaxpermittedtrainlength
+Access line max. train length [m].
 ### General Information
 
 **Number**: 1.1.5.5.97
@@ -8442,7 +8442,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## accessLineMaxAxleLoad
-The accesslinemaxaxleload
+Access line max. axle load [t].
 ### General Information
 
 **Number**: 1.1.8.7.71
@@ -8494,7 +8494,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## accessLineMinTrackRadius
-The accesslinemintrackradius
+Access line min. track radius [m].
 ### General Information
 
 **Number**: 1.1.4.8.30
@@ -8546,7 +8546,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## accessLineClearanceGauge
-The accesslineclearancegauge
+Access line clearance gauge.
 ### General Information
 
 **Number**: 1.1.2.9.60
@@ -8598,7 +8598,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## accessLineMaxIncline
-The accesslinemaxincline
+Access line max. incline [‰].
 ### General Information
 
 **Number**: 1.1.8.6.27
@@ -8650,7 +8650,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## containerAcceptance
-The containeracceptance
+Container acceptance.
 ### General Information
 
 **Number**: 1.1.4.4.50
@@ -8702,7 +8702,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## containerSizeLimit
-The containersizelimit
+Container size limit [ft].
 ### General Information
 
 **Number**: 1.1.5.9.70
@@ -8754,7 +8754,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## containerWeightLimit
-The containerweightlimit
+Container weight limit [t].
 ### General Information
 
 **Number**: 1.1.4.5.31
@@ -8806,7 +8806,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## swapBodyAcceptance
-The swapbodyacceptance
+Swap body acceptance.
 ### General Information
 
 **Number**: 1.1.4.7.90
@@ -8858,7 +8858,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## swapBodySizeLimit
-The swapbodysizelimit
+Swap body size limit [m].
 ### General Information
 
 **Number**: 1.1.9.8.51
@@ -8910,7 +8910,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## swapBodyWeightLimit
-The swapbodyweightlimit
+Swap body weight limit [t].
 ### General Information
 
 **Number**: 1.1.1.5.50
@@ -8962,7 +8962,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## trailerAcceptance
-The traileracceptance
+Trailer acceptance.
 ### General Information
 
 **Number**: 1.1.6.5.25
@@ -9014,7 +9014,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## trailerSizeLimit
-The trailersizelimit
+Trailer size limit [m].
 ### General Information
 
 **Number**: 1.1.3.3.43
@@ -9066,7 +9066,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## trailerWeightLimit
-The trailerweightlimit
+Trailer weight limit [t].
 ### General Information
 
 **Number**: 1.1.8.5.9
@@ -9118,7 +9118,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## truckTrailerAcceptance
-The trucktraileracceptance
+Truck + trailer (Rola) acceptance.
 ### General Information
 
 **Number**: 1.1.2.2.45
@@ -9170,7 +9170,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## conventionalCargoAcceptance
-The conventionalcargoacceptance
+Conventional cargo acceptance.
 ### General Information
 
 **Number**: 1.1.2.2.55
@@ -9222,7 +9222,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## palletisedGoods
-The palletisedgoods
+Palletised goods.
 ### General Information
 
 **Number**: 1.1.1.9.32
@@ -9274,7 +9274,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## bulk
-The bulk
+Bulk
 ### General Information
 
 **Number**: 1.1.4.3.59
@@ -9326,7 +9326,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## fluidsAndGas
-The fluidsandgas
+Fluids and gas.
 ### General Information
 
 **Number**: 1.1.9.5.47
@@ -9378,7 +9378,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## dangerousGoods
-The dangerousgoods
+Dangerous goods.
 ### General Information
 
 **Number**: 1.1.3.3.54
@@ -9430,7 +9430,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## ridClasses
-The ridclasses
+RID classes.
 ### General Information
 
 **Number**: 1.1.1.1.89
@@ -9482,7 +9482,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## wood
-The wood
+Wood.
 ### General Information
 
 **Number**: 1.1.6.9.63
@@ -9534,7 +9534,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## heavyLoads
-The heavyloads
+Heavy loads.
 ### General Information
 
 **Number**: 1.1.2.9.61
@@ -9586,7 +9586,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## reeferCargo
-The reefercargo
+Rreefer cargo.
 ### General Information
 
 **Number**: 1.1.6.6.52
@@ -9638,7 +9638,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## otherCargoTypes
-The othercargotypes
+Other cargo types.
 ### General Information
 
 **Number**: 1.1.8.3.89
@@ -9690,7 +9690,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## selfSupplyOfRailRelatedServices
-The selfsupplyofrailrelatedservices
+Self-supply of rail-related services.
 ### General Information
 
 **Number**: 1.1.9.7.73
@@ -9742,7 +9742,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## itSystems
-The itsystems
+IT systems.
 ### General Information
 
 **Number**: 1.1.1.9.48
@@ -9794,7 +9794,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## requestsForAccessOrServices
-The requestsforaccessorservices
+Requests for access or services.
 ### General Information
 
 **Number**: 1.1.7.5.73
@@ -9846,7 +9846,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## bookingConditions
-The bookingconditions
+Booking forms, time limits for booking, cancellation conditions, special requirements
 ### General Information
 
 **Number**: 1.1.6.5.10
@@ -9898,7 +9898,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## responseToRequests
-The responsetorequests
+Response to requests.
 ### General Information
 
 **Number**: 1.1.2.1.41
@@ -9950,7 +9950,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## availableCapacity
-The availablecapacity
+Information on available capacity.
 ### General Information
 
 **Number**: 1.1.4.9.50
@@ -10002,7 +10002,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## temporaryCapacityRestrictions
-The temporarycapacityrestrictions
+Information on temporary capacity restrictions.
 ### General Information
 
 **Number**: 1.1.9.1.2
@@ -10054,7 +10054,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## cooperationBetweenSfAndIm
-The cooperationbetweensfandim
+Cooperation between the SF and IMs.
 ### General Information
 
 **Number**: 1.1.5.4.45
@@ -10106,7 +10106,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## statusChange
-The statuschange
+Deactivate data record.
 ### General Information
 
 **Number**: 1.1.9.8.20
