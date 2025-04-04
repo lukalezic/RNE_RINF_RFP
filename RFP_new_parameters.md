@@ -5433,7 +5433,7 @@ http://data.europa.eu/949/operationStatus
 | -1    | Unknown     |
 | 0    | No     |
 | 1    | In operation     |
-| 2    | Currently our of operation     |
+| 2    | Currently out of operation     |
 | 3    | Planned     |
 
 ### Belongs to parameters group
