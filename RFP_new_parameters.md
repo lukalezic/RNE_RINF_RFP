@@ -192,6 +192,8 @@ Internal system facility ID
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/id
+* **Values**
+  By system.
 
 ### Belongs to parameters group
 
@@ -244,6 +246,8 @@ Main Data Source
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/mainDataSource
+* **Values**
+Free text entry, name organisation providing the data.
 
 ### Belongs to parameters group
 
@@ -389,6 +393,8 @@ Facility Name
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityName
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -500,6 +506,13 @@ Inland Port area.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/areaInlandPort
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Yes     |
 
 ### Belongs to parameters group
 
@@ -552,6 +565,13 @@ Freight Village area.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/areaFreightVillage
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Yes     |
 
 ### Belongs to parameters group
 
@@ -604,6 +624,13 @@ Facility/operator exempted according Reg. (EU) 2017/2177, Art. 2.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/exempted
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Yes     |
 
 ### Belongs to parameters group
 
@@ -656,6 +683,8 @@ Link where additional documents are published.
 *Hyperlink*
 * **Taxonomy Reference**
 http://data.europa.eu/949/linkToAdditionalDocuments
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -708,6 +737,8 @@ Purpose of this SF description.
 -
 * **Taxonomy Reference**
 http://data.europa.eu/949/purposeOfSfDeclaration
+* **Values**
+Link/text file attachment.
 
 ### Belongs to parameters group
 
@@ -760,6 +791,8 @@ Brief presentation of the SF.
 -
 * **Taxonomy Reference**
 http://data.europa.eu/949/briefPresentation
+* **Values**
+Link/text file attachment.
 
 ### Belongs to parameters group
 
@@ -812,6 +845,8 @@ Facility operator (name).
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorName
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -864,6 +899,8 @@ Facility operator (RICS).
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operator
+* **Values**
+Free text entry, enter SF operator's UIC company code RICS
 
 ### Belongs to parameters group
 
@@ -916,6 +953,18 @@ Type of operator.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorType
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Incumbent railway undertaking and companies related to it     |
+| 2    | Infrastructure manager     |
+| 3    | Railway undertaking     |
+| 4    | Integrated company     |
+| 5    | Government     |
+| 6    | Other     |
 
 ### Belongs to parameters group
 
@@ -968,6 +1017,8 @@ Other type of operator.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorOtherType
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -1020,6 +1071,8 @@ Contact person.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorContact
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -1072,6 +1125,8 @@ Phone.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorPhone
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -1124,6 +1179,8 @@ Fax.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorFax
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -1176,6 +1233,8 @@ Email.
 *Hyperlink*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorEmail
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -1228,6 +1287,8 @@ Website.
 *Hyperlink*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorWebsite
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -1280,6 +1341,8 @@ Facility owner (name).
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityOwner
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -1332,6 +1395,18 @@ Type of owner.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/ownerType
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Incumbent railway undertaking and companies related to it     |
+| 2    | Infrastructure manager     |
+| 3    | Railway undertaking     |
+| 4    | Integrated company     |
+| 5    | Government     |
+| 6    | Other     |
 
 ### Belongs to parameters group
 
@@ -1384,6 +1459,8 @@ Other type of owner.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/ownerOtherType
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -1436,6 +1513,8 @@ Explanantion of the relation between several operators, if relevant.
 -
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorsRelation
+* **Values**
+Link/text file attachment.
 
 ### Belongs to parameters group
 
@@ -1488,6 +1567,8 @@ SF data is valid until.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/sfDataValidUntil
+* **Values**
+Free date entry or selection from calendar    YYYY-MM-DD
 
 ### Belongs to parameters group
 
@@ -1540,7 +1621,16 @@ Describe how the SF data is updated.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/sfDataUpdateProcedure
+* **Values**
 
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | The data is updated yearly at the time of the Network Statement publication, unless changes in its content require extraordinary updates     |
+| 2    | The data is updated yearly at month [Date], unless changes in its content require extraordinary updates     |
+| 3    | The data is updated when necessary     |
+  
 ### Belongs to parameters group
 
 None
@@ -1592,6 +1682,8 @@ Date for update.
 *Datetime*
 * **Taxonomy Reference**
 http://data.europa.eu/949/dateForUpdate
+* **Values**
+Free date entry or selection from calendar
 
 ### Belongs to parameters group
 
@@ -1644,6 +1736,14 @@ Data provision according to Reg. (EU) 2017/2177.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/applyCompliance
+* **Values**
+Button "Apply for compliance with regulation 2017/2177"
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Yes     |
 
 ### Belongs to parameters group
 
@@ -1696,6 +1796,14 @@ Data provided according to Reg. (EU) 2017/2177.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/complianceConfirmed
+* **Values**
+By system, if compliance check was successful
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Yes     |
 
 ### Belongs to parameters group
 
@@ -1748,6 +1856,15 @@ Locomotive cleaning.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/locomotiveCleaning
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -1800,6 +1917,15 @@ Wagon cleaning.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/wagonCleaning
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -1852,6 +1978,15 @@ Locomotive parking.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/locomotiveParking
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -1904,6 +2039,15 @@ Wagon parking.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/wagonParking
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -1956,6 +2100,15 @@ Locomotive repair/maintenance (light maintenance).
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/locomotiveRepairMaintenanceLight
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -2008,6 +2161,15 @@ Locomotive repair/maintenance (heavy maintenance).
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/locomotiveRepairMaintenanceHeavy
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -2060,6 +2222,15 @@ Wagon repair/maintenance (light maintenance).
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/wagonRepairMaintenanceLight
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -2112,6 +2283,15 @@ Wagon repair/maintenance (heavy maintenance).
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/wagonRepairMaintenanceHeavy
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -2164,6 +2344,15 @@ Technical inspection of rolling stock.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/technicalInspectionOfRollingStock
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -2216,6 +2405,15 @@ Refuelling.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/refuelling
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -2268,6 +2466,15 @@ Shunting.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/shunting
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -2320,6 +2527,15 @@ Provision of emergency equipment.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/provisionEmergencyEquipment
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -2372,6 +2588,15 @@ Security services.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/securityServices
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -2424,6 +2649,15 @@ Traction current (extra charges).
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/tractionCurrent
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -2476,6 +2710,15 @@ Access to telecommunication networks.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/accessToTelecommunicationNetworks
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -2528,6 +2771,15 @@ Provision of supplementary information.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/provisionSupplementaryInformation
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -2580,6 +2832,8 @@ Other services.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/otherServices
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -2632,6 +2886,8 @@ Description of services.
 -
 * **Taxonomy Reference**
 http://data.europa.eu/949/descriptionOfServices
+* **Values**
+Link/text file attachment.
 
 ### Belongs to parameters group
 
@@ -2684,6 +2940,8 @@ Timetable for service trains.
 -
 * **Taxonomy Reference**
 http://data.europa.eu/949/timetableServiceTrains
+* **Values**
+Link/text file attachment.
 
 ### Belongs to parameters group
 
@@ -2736,6 +2994,8 @@ Facility certificates.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityCertificates
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -2788,6 +3048,15 @@ Loading/unloading/transhipment.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingUnloadingTranshipment
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -2840,6 +3109,15 @@ Loading unit cleaning.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingUnitCleaning
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -2892,6 +3170,15 @@ Loading unit fumigation, disinfection.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingUnitFumigationDisinfection
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -2944,6 +3231,15 @@ Loading unit repair/maintenance.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingUnitRepairMaintenance
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -2996,6 +3292,15 @@ Loading unit ventilation.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingUnitVentilation
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -3048,6 +3353,15 @@ Order picking, warehousing.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/orderPickingWarehousing
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -3100,6 +3414,15 @@ Storage of containers/general cargo.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/storageContainersGeneralCargo
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -3152,6 +3475,15 @@ Storage of dangerous goods.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/storageDangerousGoods
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -3204,6 +3536,8 @@ RID classes.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/storageRidClasses
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -3256,6 +3590,15 @@ Storage and handling of Reefers.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/storageHandlingReefers
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -3308,6 +3651,15 @@ Stuffing/Stripping.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/stuffingStripping
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -3360,6 +3712,15 @@ Container lashing.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/containerLashing
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -3412,6 +3773,15 @@ Weighing of wagons/Loading units.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/weighingWagonsLoadingUnits
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -3464,6 +3834,15 @@ Container sales/leasing.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/containerSalesLeasing
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -3516,6 +3895,15 @@ Customs clearance.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/customsClearance
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -3568,6 +3956,15 @@ Trucking (Organisation Pre-/End-haulage).
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/trucking
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -3620,6 +4017,15 @@ Tailor-made contracts for control of transport of dangerous goods.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/tailormadeContractsDangerousGoods
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -3672,6 +4078,15 @@ Tailor-made contracts for assistance in running abnormal trains.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/tailormadeContractsAbnormalTrains
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -3724,6 +4139,15 @@ Train boarding and deboarding.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/trainBoardingDeboarding
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -3776,6 +4200,15 @@ Ticketing services.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/ticketingServices
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -3828,6 +4261,15 @@ Assistance for persons with reduced mobility.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/assistanceForPersonsWithReducedMobility
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -3880,6 +4322,15 @@ Lost & Found.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/lostAndFound
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -3932,6 +4383,15 @@ Luggage storing.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/luggageStoring
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -3984,6 +4444,15 @@ Waiting areas and weather protection.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/waitingAreasAndWeaterProtection
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -4036,6 +4505,15 @@ Ice protection
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/iceProtection
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -4088,6 +4566,15 @@ Pre-heating and pre-cooling of passenger trains.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/preHeatingPreCooling
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -4140,6 +4627,15 @@ Sewage disposal and water supply.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/sewageDisposalWaterSupply
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -4192,6 +4688,15 @@ Use of motorail facilities.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/useOfMotorailFacilities
+* **Values**
+
+| Code | Value |
+|------|-------|
+| -1    | Unknown     |
+| 0    | No     |
+| 1    | Basic service     |
+| 2    | Additional service     |
+| 3    | Ancillary service     |
 
 ### Belongs to parameters group
 
@@ -4244,6 +4749,8 @@ Longitude.
 *Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/longitude
+* **Values**
+Free entry or calculation from post adress.
 
 ### Belongs to parameters group
 
@@ -4296,6 +4803,8 @@ Latitude.
 *Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/latitude
+* **Values**
+Free entry or calculation from post adress.
 
 ### Belongs to parameters group
 
@@ -4348,6 +4857,11 @@ CRD primary  location ID.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/crdPrimaryLocation
+* **Values**
+Selection list with search possibility:
+
+	all primary location IDs
+	+ associated location name
 
 ### Belongs to parameters group
 
@@ -4400,6 +4914,7 @@ CRD subsidiary location ID.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/crdSubsidiaryLocation
+* **Values**
 
 ### Belongs to parameters group
 
@@ -4452,6 +4967,7 @@ RINF operational point.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/rinfOperationalPoint
+* **Values**
 
 ### Belongs to parameters group
 
@@ -4504,6 +5020,8 @@ Street, house number
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityStreet
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -4556,6 +5074,8 @@ ZIP code.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityZip
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -4608,6 +5128,8 @@ Town.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityTown
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -4660,6 +5182,8 @@ Country.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityCountry
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -4712,6 +5236,7 @@ Connection of facility to public rail network.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/connectionToPublicRailNetwork
+* **Values**
 
 ### Belongs to parameters group
 
@@ -4764,6 +5289,7 @@ Facility located on RFC.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityLocatedOnRfc
+* **Values**
 
 ### Belongs to parameters group
 
@@ -4816,6 +5342,7 @@ Conditions for road access.
 -
 * **Taxonomy Reference**
 http://data.europa.eu/949/roadAccessConditions
+* **Values**
 
 ### Belongs to parameters group
 
@@ -4868,6 +5395,7 @@ Facility operation status.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/operationStatus
+* **Values**
 
 ### Belongs to parameters group
 
@@ -4920,6 +5448,8 @@ Facility opening times.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/openingTimes
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -4972,6 +5502,7 @@ Facility open on demand.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/openOnDemand
+* **Values**
 
 ### Belongs to parameters group
 
@@ -5024,6 +5555,7 @@ All facility tracks: number.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -5076,6 +5608,8 @@ Platform tracks: number.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfPlatformTracks
+* **Values**
+Free data entry.
 
 ### Belongs to parameters group
 
@@ -5128,6 +5662,7 @@ Platform tracks: thereof electrified.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedPlatformTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -5180,6 +5715,7 @@ Platform tracks: max. usable length [m]
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthPlatformTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -5232,6 +5768,7 @@ Transhipment tracks: number.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfTranshipmentTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -5284,6 +5821,7 @@ Transhipment tracks: thereof electrified.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedTranshipmentTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -5336,6 +5874,7 @@ Transhipment tracks: max. usable length [m].
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthTranshipmentTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -5388,6 +5927,7 @@ Storage tracks: number.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfStorageTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -5440,6 +5980,7 @@ Storage tracks: thereof electrified.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedStorageTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -5492,6 +6033,7 @@ Storage tracks: max. usable length [m].
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthStorageTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -5544,6 +6086,7 @@ Shunting tracks: number.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfShuntingTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -5596,6 +6139,7 @@ Shunting tracks: thereof electrified.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedShuntingTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -5648,6 +6192,7 @@ Shunting tracks: max. usable length [m]
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthShuntingTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -5700,6 +6245,7 @@ Inbound + Outbound tracks: number.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfInboundOutboundTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -5752,6 +6298,7 @@ Inbound + Outbound tracks: thereof electrified.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedInboundOutboundTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -5804,6 +6351,7 @@ Inbound + Outbound tracks: max. usable length [m].
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthInboundOutboundTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -5856,6 +6404,7 @@ Allocation tracks: number.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfAllocationTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -5908,6 +6457,7 @@ Allocation tracks: thereof electrified.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedAllocationTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -5960,6 +6510,7 @@ Allocation tracks: max. usable length [m].
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthAllocationTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -6012,6 +6563,7 @@ Other tracks: number.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfOtherTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -6064,6 +6616,7 @@ Other tracks: thereof electrified.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedOtherTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -6116,6 +6669,7 @@ Other tracks: max. usable length [m].
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthOtherTracks
+* **Values**
 
 ### Belongs to parameters group
 
@@ -6168,6 +6722,7 @@ Description of the technical characteristics of the facility.
 -
 * **Taxonomy Reference**
 http://data.europa.eu/949/descriptionOfTechnicalCharacteristics
+* **Values**
 
 ### Belongs to parameters group
 
@@ -6220,6 +6775,7 @@ Technical map.
 -
 * **Taxonomy Reference**
 http://data.europa.eu/949/technicalMap
+* **Values**
 
 ### Belongs to parameters group
 
@@ -6272,6 +6828,7 @@ Brake test facility.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/brakeTestFacility
+* **Values**
 
 ### Belongs to parameters group
 
@@ -6324,6 +6881,7 @@ Compressed air supply.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/compressedAirSupply
+* **Values**
 
 ### Belongs to parameters group
 
@@ -6376,6 +6934,7 @@ Turntable.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/turntable
+* **Values**
 
 ### Belongs to parameters group
 
@@ -6428,6 +6987,7 @@ Washing/cleaning equipment for locomotives.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/locomotiveWashingCleaning
+* **Values**
 
 ### Belongs to parameters group
 
@@ -6480,6 +7040,7 @@ Washing/cleaning equipment for  wagons.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/wagonWashingCleaning
+* **Values**
 
 ### Belongs to parameters group
 
@@ -6532,6 +7093,7 @@ Washing/cleaning equipment for loading units.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingUnitWashingCleaning
+* **Values**
 
 ### Belongs to parameters group
 
@@ -6584,6 +7146,7 @@ Maintenance shop (light maintenance).
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maintenanceShopLight
+* **Values**
 
 ### Belongs to parameters group
 
@@ -6636,6 +7199,7 @@ Maintenance shop (heavy maintenance).
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maintenanceShopHeavy
+* **Values**
 
 ### Belongs to parameters group
 
@@ -6688,6 +7252,7 @@ Other Equipment.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/otherEquipment
+* **Values**
 
 ### Belongs to parameters group
 
@@ -6740,6 +7305,7 @@ Description of technical equipment (particularly washing, maintenance).
 -
 * **Taxonomy Reference**
 http://data.europa.eu/949/descriptionTechnicalEquipment
+* **Values**
 
 ### Belongs to parameters group
 
@@ -6792,6 +7358,7 @@ Number of (gantry) cranes.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/numberOfGantryCranes
+* **Values**
 
 ### Belongs to parameters group
 
@@ -6844,6 +7411,7 @@ Number of mobile cranes.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/numberOfMobileCranes
+* **Values**
 
 ### Belongs to parameters group
 
@@ -6896,6 +7464,7 @@ Horizontal transhipment systems.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/horizontalTranshipmentSystems
+* **Values**
 
 ### Belongs to parameters group
 
@@ -6948,6 +7517,7 @@ Head ramp.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/headRamp
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7000,6 +7570,7 @@ Side ramp.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/sideRamp
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7052,6 +7623,7 @@ Loading Lane.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingLane
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7104,6 +7676,7 @@ Hump.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/hump
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7156,6 +7729,7 @@ Trackscale.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/trackScale
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7208,6 +7782,7 @@ Optical character recognition.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/opticalCharacterRecognition
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7260,6 +7835,7 @@ Number of reefer connections.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/numberOfReeferConnections
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7312,6 +7888,7 @@ Storage area [m²].
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/storageAreaM2
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7364,6 +7941,7 @@ Storage area [TEU].
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/storageAreaTeu
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7416,6 +7994,7 @@ Empty container depot.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/emptyContainerDepot
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7468,6 +8047,7 @@ Number of platforms.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/numberOfPlatforms
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7520,6 +8100,7 @@ Max. platform length [m].
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxPlatformLength
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7572,6 +8153,7 @@ Max. platform height [mm].
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxPlatformHeight
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7624,6 +8206,7 @@ Min. platform height [mm].
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/minPlatformHeight
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7676,6 +8259,7 @@ Escalator/ramp for platform access.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/escalatorRampForPlatformAccess
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7728,6 +8312,7 @@ Weather protection for passengers.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/weatherProtectionForPassengers
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7780,6 +8365,7 @@ Planned changes in technical characteristics.
 -
 * **Taxonomy Reference**
 http://data.europa.eu/949/plannedChangesTechnicalCharacteristics
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7832,6 +8418,7 @@ Information on charges.
 -
 * **Taxonomy Reference**
 http://data.europa.eu/949/informationOnCharges
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7884,6 +8471,7 @@ Information on discounts.
 -
 * **Taxonomy Reference**
 http://data.europa.eu/949/informationOnDiscounts
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7936,6 +8524,7 @@ Public accessibility.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/publicAccessibility
+* **Values**
 
 ### Belongs to parameters group
 
@@ -7988,6 +8577,7 @@ Legal requirements.
 -
 * **Taxonomy Reference**
 http://data.europa.eu/949/legalRequirements
+* **Values**
 
 ### Belongs to parameters group
 
@@ -8040,6 +8630,7 @@ Electrified rail access possible.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/electrifiedRailAccessPossible
+* **Values**
 
 ### Belongs to parameters group
 
@@ -8092,6 +8683,7 @@ Max. permitted train length [m].
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxPermittedTrainLength
+* **Values**
 
 ### Belongs to parameters group
 
@@ -8144,6 +8736,7 @@ Max. permitted axle load [t].
 *Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxPermittedAxleLoad
+* **Values**
 
 ### Belongs to parameters group
 
@@ -8196,6 +8789,7 @@ Min. track radius [m].
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/minTrackRadius
+* **Values**
 
 ### Belongs to parameters group
 
@@ -8248,6 +8842,7 @@ Clearance gauge.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/clearanceGauge
+* **Values**
 
 ### Belongs to parameters group
 
@@ -8300,6 +8895,7 @@ Length of access/branch line [km].
 *Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/lengthOfAccessBranchLine
+* **Values**
 
 ### Belongs to parameters group
 
@@ -8352,6 +8948,7 @@ Access line electrification.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/accessLineElectrification
+* **Values**
 
 ### Belongs to parameters group
 
@@ -8404,6 +9001,7 @@ Access line max. train length [m].
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/accessLineMaxPermittedTrainLength
+* **Values**
 
 ### Belongs to parameters group
 
@@ -8456,6 +9054,7 @@ Access line max. axle load [t].
 *Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/accessLineMaxAxleLoad
+* **Values**
 
 ### Belongs to parameters group
 
@@ -8508,6 +9107,7 @@ Access line min. track radius [m].
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/accessLineMinTrackRadius
+* **Values**
 
 ### Belongs to parameters group
 
@@ -8560,6 +9160,7 @@ Access line clearance gauge.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/accessLineClearanceGauge
+* **Values**
 
 ### Belongs to parameters group
 
@@ -8612,6 +9213,7 @@ Access line max. incline [‰].
 *Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/accessLineMaxIncline
+* **Values**
 
 ### Belongs to parameters group
 
@@ -8664,6 +9266,7 @@ Container acceptance.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/containerAcceptance
+* **Values**
 
 ### Belongs to parameters group
 
@@ -8716,6 +9319,7 @@ Container size limit [ft].
 *Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/containerSizeLimit
+* **Values**
 
 ### Belongs to parameters group
 
@@ -8768,6 +9372,7 @@ Container weight limit [t].
 *Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/containerWeightLimit
+* **Values**
 
 ### Belongs to parameters group
 
@@ -8820,6 +9425,7 @@ Swap body acceptance.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/swapBodyAcceptance
+* **Values**
 
 ### Belongs to parameters group
 
@@ -8872,6 +9478,7 @@ Swap body size limit [m].
 *Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/swapBodySizeLimit
+* **Values**
 
 ### Belongs to parameters group
 
@@ -8924,6 +9531,7 @@ Swap body weight limit [t].
 *Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/swapBodyWeightLimit
+* **Values**
 
 ### Belongs to parameters group
 
@@ -8976,6 +9584,7 @@ Trailer acceptance.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/trailerAcceptance
+* **Values**
 
 ### Belongs to parameters group
 
@@ -9028,6 +9637,7 @@ Trailer size limit [m].
 *Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/trailerSizeLimit
+* **Values**
 
 ### Belongs to parameters group
 
@@ -9080,6 +9690,7 @@ Trailer weight limit [t].
 *Real*
 * **Taxonomy Reference**
 http://data.europa.eu/949/trailerWeightLimit
+* **Values**
 
 ### Belongs to parameters group
 
@@ -9132,6 +9743,7 @@ Truck + trailer (Rola) acceptance.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/truckTrailerAcceptance
+* **Values**
 
 ### Belongs to parameters group
 
@@ -9184,6 +9796,7 @@ Conventional cargo acceptance.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/conventionalCargoAcceptance
+* **Values**
 
 ### Belongs to parameters group
 
@@ -9236,6 +9849,7 @@ Palletised goods.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/palletisedGoods
+* **Values**
 
 ### Belongs to parameters group
 
@@ -9288,6 +9902,7 @@ Bulk
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/bulk
+* **Values**
 
 ### Belongs to parameters group
 
@@ -9340,6 +9955,7 @@ Fluids and gas.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/fluidsAndGas
+* **Values**
 
 ### Belongs to parameters group
 
@@ -9392,6 +10008,7 @@ Dangerous goods.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/dangerousGoods
+* **Values**
 
 ### Belongs to parameters group
 
@@ -9444,6 +10061,8 @@ RID classes.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/ridClasses
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -9496,6 +10115,7 @@ Wood.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/wood
+* **Values**
 
 ### Belongs to parameters group
 
@@ -9548,6 +10168,7 @@ Heavy loads.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/heavyLoads
+* **Values**
 
 ### Belongs to parameters group
 
@@ -9600,6 +10221,7 @@ Rreefer cargo.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/reeferCargo
+* **Values**
 
 ### Belongs to parameters group
 
@@ -9652,6 +10274,8 @@ Other cargo types.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/otherCargoTypes
+* **Values**
+Free text entry.
 
 ### Belongs to parameters group
 
@@ -9704,6 +10328,7 @@ Self-supply of rail-related services.
 -
 * **Taxonomy Reference**
 http://data.europa.eu/949/selfSupplyOfRailRelatedServices
+* **Values**
 
 ### Belongs to parameters group
 
@@ -9756,6 +10381,7 @@ IT systems.
 -
 * **Taxonomy Reference**
 http://data.europa.eu/949/itSystems
+* **Values**
 
 ### Belongs to parameters group
 
@@ -9808,6 +10434,7 @@ Requests for access or services.
 -
 * **Taxonomy Reference**
 http://data.europa.eu/949/requestsForAccessOrServices
+* **Values**
 
 ### Belongs to parameters group
 
@@ -9860,6 +10487,7 @@ Booking forms, time limits for booking, cancellation conditions, special require
 -
 * **Taxonomy Reference**
 http://data.europa.eu/949/bookingConditions
+* **Values**
 
 ### Belongs to parameters group
 
@@ -9912,6 +10540,7 @@ Response to requests.
 -
 * **Taxonomy Reference**
 http://data.europa.eu/949/responseToRequests
+* **Values**
 
 ### Belongs to parameters group
 
@@ -9964,6 +10593,7 @@ Information on available capacity.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/availableCapacity
+* **Values**
 
 ### Belongs to parameters group
 
@@ -10016,6 +10646,7 @@ Information on temporary capacity restrictions.
 *String*
 * **Taxonomy Reference**
 http://data.europa.eu/949/temporaryCapacityRestrictions
+* **Values**
 
 ### Belongs to parameters group
 
@@ -10068,6 +10699,7 @@ Cooperation between the SF and IMs.
 -
 * **Taxonomy Reference**
 http://data.europa.eu/949/cooperationBetweenSfAndIm
+* **Values**
 
 ### Belongs to parameters group
 
@@ -10120,6 +10752,7 @@ Deactivate data record.
 *Integer*
 * **Taxonomy Reference**
 http://data.europa.eu/949/statusChange
+* **Values**
 
 ### Belongs to parameters group
 
