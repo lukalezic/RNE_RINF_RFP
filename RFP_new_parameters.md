@@ -4860,8 +4860,8 @@ http://data.europa.eu/949/crdPrimaryLocation
 * **Values**
 Selection list with search possibility:
 
-	all primary location IDs
-	+ associated location name
+	+ all primary location IDs
+	+ +associated location name
 
 ### Belongs to parameters group
 
