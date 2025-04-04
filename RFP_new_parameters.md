@@ -168,7 +168,7 @@ http://data.europa.eu/949/ServiceFacility
   
   10 = Relief facility
   
-  11 = Refueling facility
+  11 = Refuelling facility
   
   12 = Mobile service provider
 
@@ -247,7 +247,7 @@ Main Data Source
 * **Taxonomy Reference**
 http://data.europa.eu/949/mainDataSource
 * **Values**
-Free text entry, name organisation providing the data.
+Free text entry, name of the organisation providing the data.
 
 ### Belongs to parameters group
 
@@ -369,7 +369,7 @@ http://data.europa.eu/949/ServiceFacility
   
   10 = Relief facility
   
-  11 = Refueling facility
+  11 = Refuelling facility
   
   12 = Mobile service provider
 
@@ -1499,7 +1499,7 @@ http://data.europa.eu/949/ServiceFacility
 ------------------------------------------------------------
 
 ## operatorsRelation
-Explanantion of the relation between several operators, if relevant.
+Explanation of the relation between several operators, if relevant.
 ### General Information
 
 **Number**: 1.1.9.6.37
