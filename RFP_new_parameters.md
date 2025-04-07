@@ -772,7 +772,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 3 (3) and Art. 4 of Reg. 2017/2177)
 
 ------------------------------------------------------------
 
@@ -880,7 +880,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 1 property (General Information).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 3 (12) of Dir. 2012/34)
 
 ------------------------------------------------------------
 
