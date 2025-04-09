@@ -97,7 +97,7 @@ A type of Service Facility, identified by a number.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityType
 * **Values**
@@ -298,7 +298,7 @@ Facility type
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityType
 * **Values**
@@ -444,7 +444,7 @@ Is the facility located in Sea Port area?
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/areaSeaport
 * **Values**
@@ -503,7 +503,7 @@ Inland Port area.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/areaInlandPort
 * **Values**
@@ -562,7 +562,7 @@ Freight Village area.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/areaFreightVillage
 * **Values**
@@ -621,7 +621,7 @@ Facility/operator exempted according Reg. (EU) 2017/2177, Art. 2.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/exempted
 * **Values**
@@ -950,7 +950,7 @@ Type of operator.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorType
 * **Values**
@@ -1393,7 +1393,7 @@ Type of owner.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/ownerType
 * **Values**
@@ -1619,7 +1619,7 @@ Describe how the SF data is updated.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/sfDataUpdateProcedure
 * **Values**
@@ -1733,7 +1733,7 @@ Data provision according to Reg. (EU) 2017/2177.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/applyCompliance
 * **Values**
@@ -1793,7 +1793,7 @@ Data provided according to Reg. (EU) 2017/2177.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/complianceConfirmed
 * **Values**
@@ -1853,7 +1853,7 @@ Locomotive cleaning.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/locomotiveCleaning
 * **Values**
@@ -1914,7 +1914,7 @@ Wagon cleaning.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/wagonCleaning
 * **Values**
@@ -1975,7 +1975,7 @@ Locomotive parking.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/locomotiveParking
 * **Values**
@@ -2036,7 +2036,7 @@ Wagon parking.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/wagonParking
 * **Values**
@@ -2097,7 +2097,7 @@ Locomotive repair/maintenance (light maintenance).
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/locomotiveRepairMaintenanceLight
 * **Values**
@@ -2158,7 +2158,7 @@ Locomotive repair/maintenance (heavy maintenance).
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/locomotiveRepairMaintenanceHeavy
 * **Values**
@@ -2220,7 +2220,7 @@ Wagon repair/maintenance (light maintenance).
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/wagonRepairMaintenanceLight
 * **Values**
@@ -2281,7 +2281,7 @@ Wagon repair/maintenance (heavy maintenance).
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/wagonRepairMaintenanceHeavy
 * **Values**
@@ -2342,7 +2342,7 @@ Technical inspection of rolling stock.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/technicalInspectionOfRollingStock
 * **Values**
@@ -2403,7 +2403,7 @@ Refuelling.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/refuelling
 * **Values**
@@ -2464,7 +2464,7 @@ Shunting.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/shunting
 * **Values**
@@ -2525,7 +2525,7 @@ Provision of emergency equipment.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/provisionEmergencyEquipment
 * **Values**
@@ -2586,7 +2586,7 @@ Security services.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/securityServices
 * **Values**
@@ -2647,7 +2647,7 @@ Traction current (extra charges).
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/tractionCurrent
 * **Values**
@@ -2708,7 +2708,7 @@ Access to telecommunication networks.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/accessToTelecommunicationNetworks
 * **Values**
@@ -2769,7 +2769,7 @@ Provision of supplementary information.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/provisionSupplementaryInformation
 * **Values**
@@ -3046,7 +3046,7 @@ Loading/unloading/transhipment.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingUnloadingTranshipment
 * **Values**
@@ -3107,7 +3107,7 @@ Loading unit cleaning.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingUnitCleaning
 * **Values**
@@ -3168,7 +3168,7 @@ Loading unit fumigation, disinfection.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingUnitFumigationDisinfection
 * **Values**
@@ -3229,7 +3229,7 @@ Loading unit repair/maintenance.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingUnitRepairMaintenance
 * **Values**
@@ -3290,7 +3290,7 @@ Loading unit ventilation.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingUnitVentilation
 * **Values**
@@ -3351,7 +3351,7 @@ Order picking, warehousing.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/orderPickingWarehousing
 * **Values**
@@ -3412,7 +3412,7 @@ Storage of containers/general cargo.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/storageContainersGeneralCargo
 * **Values**
@@ -3473,7 +3473,7 @@ Storage of dangerous goods.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/storageDangerousGoods
 * **Values**
@@ -3588,7 +3588,7 @@ Storage and handling of Reefers.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/storageHandlingReefers
 * **Values**
@@ -3649,7 +3649,7 @@ Stuffing/Stripping.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/stuffingStripping
 * **Values**
@@ -3710,7 +3710,7 @@ Container lashing.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/containerLashing
 * **Values**
@@ -3771,7 +3771,7 @@ Weighing of wagons/Loading units.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/weighingWagonsLoadingUnits
 * **Values**
@@ -3832,7 +3832,7 @@ Container sales/leasing.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/containerSalesLeasing
 * **Values**
@@ -3893,7 +3893,7 @@ Customs clearance.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/customsClearance
 * **Values**
@@ -3954,7 +3954,7 @@ Trucking (Organisation Pre-/End-haulage).
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/trucking
 * **Values**
@@ -4015,7 +4015,7 @@ Tailor-made contracts for control of transport of dangerous goods.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/tailormadeContractsDangerousGoods
 * **Values**
@@ -4076,7 +4076,7 @@ Tailor-made contracts for assistance in running abnormal trains.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/tailormadeContractsAbnormalTrains
 * **Values**
@@ -4137,7 +4137,7 @@ Train boarding and deboarding.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/trainBoardingDeboarding
 * **Values**
@@ -4198,7 +4198,7 @@ Ticketing services.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/ticketingServices
 * **Values**
@@ -4259,7 +4259,7 @@ Assistance for persons with reduced mobility.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/assistanceForPersonsWithReducedMobility
 * **Values**
@@ -4320,7 +4320,7 @@ Lost & Found.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/lostAndFound
 * **Values**
@@ -4381,7 +4381,7 @@ Luggage storing.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/luggageStoring
 * **Values**
@@ -4442,7 +4442,7 @@ Waiting areas and weather protection.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/waitingAreasAndWeaterProtection
 * **Values**
@@ -4503,7 +4503,7 @@ Ice protection
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/iceProtection
 * **Values**
@@ -4564,7 +4564,7 @@ Pre-heating and pre-cooling of passenger trains.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/preHeatingPreCooling
 * **Values**
@@ -4625,7 +4625,7 @@ Sewage disposal and water supply.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/sewageDisposalWaterSupply
 * **Values**
@@ -4686,7 +4686,7 @@ Use of motorail facilities.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/useOfMotorailFacilities
 * **Values**
@@ -5302,7 +5302,7 @@ Facility located on RFC.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityLocatedOnRfc
 * **Values**
@@ -5424,7 +5424,7 @@ Facility operation status.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/operationStatus
 * **Values**
@@ -5539,7 +5539,7 @@ Facility open on demand.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/openOnDemand
 * **Values**
@@ -5598,7 +5598,7 @@ All facility tracks: number.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfTracks
 * **Values**
@@ -5660,7 +5660,7 @@ Platform tracks: number.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfPlatformTracks
 * **Values**
@@ -5714,7 +5714,7 @@ Platform tracks: thereof electrified.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedPlatformTracks
 * **Values**
@@ -5774,7 +5774,7 @@ Platform tracks: max. usable length [m]
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthPlatformTracks
 * **Values**
@@ -5828,7 +5828,7 @@ Transhipment tracks: number.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfTranshipmentTracks
 * **Values**
@@ -5882,7 +5882,7 @@ Transhipment tracks: thereof electrified.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedTranshipmentTracks
 * **Values**
@@ -5942,7 +5942,7 @@ Transhipment tracks: max. usable length [m].
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthTranshipmentTracks
 * **Values**
@@ -5996,7 +5996,7 @@ Storage tracks: number.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfStorageTracks
 * **Values**
@@ -6050,7 +6050,7 @@ Storage tracks: thereof electrified.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedStorageTracks
 * **Values**
@@ -6110,7 +6110,7 @@ Storage tracks: max. usable length [m].
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthStorageTracks
 * **Values**
@@ -6164,7 +6164,7 @@ Shunting tracks: number.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfShuntingTracks
 * **Values**
@@ -6218,7 +6218,7 @@ Shunting tracks: thereof electrified.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedShuntingTracks
 * **Values**
@@ -6278,7 +6278,7 @@ Shunting tracks: max. usable length [m]
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthShuntingTracks
 * **Values**
@@ -6332,7 +6332,7 @@ Inbound + Outbound tracks: number.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfInboundOutboundTracks
 * **Values**
@@ -6386,7 +6386,7 @@ Inbound + Outbound tracks: thereof electrified.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedInboundOutboundTracks
 * **Values**
@@ -6446,7 +6446,7 @@ Inbound + Outbound tracks: max. usable length [m].
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthInboundOutboundTracks
 * **Values**
@@ -6500,7 +6500,7 @@ Allocation tracks: number.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfAllocationTracks
 * **Values**
@@ -6554,7 +6554,7 @@ Allocation tracks: thereof electrified.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedAllocationTracks
 * **Values**
@@ -6614,7 +6614,7 @@ Allocation tracks: max. usable length [m].
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthAllocationTracks
 * **Values**
@@ -6668,7 +6668,7 @@ Other tracks: number.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/totalNumberOfOtherTracks
 * **Values**
@@ -6722,7 +6722,7 @@ Other tracks: thereof electrified.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/thereofElectrifiedOtherTracks
 * **Values**
@@ -6782,7 +6782,7 @@ Other tracks: max. usable length [m].
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxUsableLengthOtherTracks
 * **Values**
@@ -6944,7 +6944,7 @@ Brake test facility.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/brakeTestFacility
 * **Values**
@@ -7003,7 +7003,7 @@ Compressed air supply.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/compressedAirSupply
 * **Values**
@@ -7062,7 +7062,7 @@ Turntable.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/turntable
 * **Values**
@@ -7121,7 +7121,7 @@ Washing/cleaning equipment for locomotives.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/locomotiveWashingCleaning
 * **Values**
@@ -7180,7 +7180,7 @@ Washing/cleaning equipment for  wagons.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/wagonWashingCleaning
 * **Values**
@@ -7239,7 +7239,7 @@ Washing/cleaning equipment for loading units.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingUnitWashingCleaning
 * **Values**
@@ -7298,7 +7298,7 @@ Maintenance shop (light maintenance).
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/maintenanceShopLight
 * **Values**
@@ -7357,7 +7357,7 @@ Maintenance shop (heavy maintenance).
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/maintenanceShopHeavy
 * **Values**
@@ -7524,7 +7524,7 @@ Number of (gantry) cranes.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/numberOfGantryCranes
 * **Values**
@@ -7578,7 +7578,7 @@ Number of mobile cranes.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/numberOfMobileCranes
 * **Values**
@@ -7632,7 +7632,7 @@ Horizontal transhipment systems.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/horizontalTranshipmentSystems
 * **Values**
@@ -7694,7 +7694,7 @@ Head ramp.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/headRamp
 * **Values**
@@ -7753,7 +7753,7 @@ Side ramp.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/sideRamp
 * **Values**
@@ -7812,7 +7812,7 @@ Loading Lane.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/loadingLane
 * **Values**
@@ -7871,7 +7871,7 @@ Hump.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/hump
 * **Values**
@@ -7930,7 +7930,7 @@ Trackscale.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/trackScale
 * **Values**
@@ -7989,7 +7989,7 @@ Optical character recognition.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/opticalCharacterRecognition
 * **Values**
@@ -8048,7 +8048,7 @@ Number of reefer connections.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/numberOfReeferConnections
 * **Values**
@@ -8102,7 +8102,7 @@ Storage area [m²].
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/storageAreaM2
 * **Values**
@@ -8156,7 +8156,7 @@ Storage area [TEU].
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/storageAreaTeu
 * **Values**
@@ -8210,7 +8210,7 @@ Empty container depot.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/emptyContainerDepot
 * **Values**
@@ -8269,7 +8269,7 @@ Number of platforms.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/numberOfPlatforms
 * **Values**
@@ -8323,7 +8323,7 @@ Max. platform length [m].
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxPlatformLength
 * **Values**
@@ -8377,7 +8377,7 @@ Max. platform height [mm].
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxPlatformHeight
 * **Values**
@@ -8431,7 +8431,7 @@ Min. platform height [mm].
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/minPlatformHeight
 * **Values**
@@ -8485,7 +8485,7 @@ Escalator/ramp for platform access.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/escalatorRampForPlatformAccess
 * **Values**
@@ -8544,7 +8544,7 @@ Weather protection for passengers.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/weatherProtectionForPassengers
 * **Values**
@@ -8765,7 +8765,7 @@ Public accessibility.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/publicAccessibility
 * **Values**
@@ -8880,7 +8880,7 @@ Electrified rail access possible.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/electrifiedRailAccessPossible
 * **Values**
@@ -8939,7 +8939,7 @@ Max. permitted train length [m].
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/maxPermittedTrainLength
 * **Values**
@@ -9047,7 +9047,7 @@ Min. track radius [m].
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/minTrackRadius
 * **Values**
@@ -9101,7 +9101,7 @@ Clearance gauge.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/clearanceGauge
 * **Values**
@@ -9216,7 +9216,7 @@ Access line electrification.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/accessLineElectrification
 * **Values**
@@ -9275,7 +9275,7 @@ Access line max. train length [m].
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/accessLineMaxPermittedTrainLength
 * **Values**
@@ -9383,7 +9383,7 @@ Access line min. track radius [m].
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/accessLineMinTrackRadius
 * **Values**
@@ -9552,7 +9552,7 @@ Container acceptance.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/containerAcceptance
 * **Values**
@@ -9721,7 +9721,7 @@ Swap body acceptance.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/swapBodyAcceptance
 * **Values**
@@ -9887,7 +9887,7 @@ Trailer acceptance.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/trailerAcceptance
 * **Values**
@@ -10056,7 +10056,7 @@ Truck + trailer (Rola) acceptance.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/truckTrailerAcceptance
 * **Values**
@@ -10115,7 +10115,7 @@ Conventional cargo acceptance.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/conventionalCargoAcceptance
 * **Values**
@@ -10174,7 +10174,7 @@ Palletised goods.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/palletisedGoods
 * **Values**
@@ -10233,7 +10233,7 @@ Bulk
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/bulk
 * **Values**
@@ -10292,7 +10292,7 @@ Fluids and gas.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/fluidsAndGas
 * **Values**
@@ -10351,7 +10351,7 @@ Dangerous goods.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/dangerousGoods
 * **Values**
@@ -10464,7 +10464,7 @@ Wood.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/wood
 * **Values**
@@ -10523,7 +10523,7 @@ Heavy loads.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/heavyLoads
 * **Values**
@@ -10582,7 +10582,7 @@ Rreefer cargo.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/reeferCargo
 * **Values**
@@ -10966,7 +10966,7 @@ Information on available capacity.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/availableCapacity
 * **Values**
@@ -11135,7 +11135,7 @@ Deactivate data record.
 
 ### Data Format
 * **Data Presentation**
-*Integer*
+[integer](https://www.w3.org/2001/XMLSchema#integer)
 * **Taxonomy Reference**
 http://data.europa.eu/949/statusChange
 * **Values**
