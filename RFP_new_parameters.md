@@ -734,7 +734,7 @@ Purpose of this SF description.
 
 ### Data Format
 * **Data Presentation**
--
+
 * **Taxonomy Reference**
 http://data.europa.eu/949/purposeOfSfDeclaration
 * **Values**
@@ -788,7 +788,7 @@ Brief presentation of the SF.
 
 ### Data Format
 * **Data Presentation**
--
+
 * **Taxonomy Reference**
 http://data.europa.eu/949/briefPresentation
 * **Values**
