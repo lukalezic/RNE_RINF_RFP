@@ -243,7 +243,7 @@ Main Data Source
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/mainDataSource
 * **Values**
@@ -390,7 +390,7 @@ Facility Name
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityName
 * **Values**
@@ -842,7 +842,7 @@ Facility operator (name).
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorName
 * **Values**
@@ -896,7 +896,7 @@ Facility operator (RICS).
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/operator
 * **Values**
@@ -1015,7 +1015,7 @@ Other type of operator.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorOtherType
 * **Values**
@@ -1069,7 +1069,7 @@ Contact person.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorContact
 * **Values**
@@ -1123,7 +1123,7 @@ Phone.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorPhone
 * **Values**
@@ -1177,7 +1177,7 @@ Fax.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorFax
 * **Values**
@@ -1339,7 +1339,7 @@ Facility owner (name).
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityOwner
 * **Values**
@@ -1457,7 +1457,7 @@ Other type of owner.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/ownerOtherType
 * **Values**
@@ -1565,7 +1565,7 @@ SF data is valid until.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/sfDataValidUntil
 * **Values**
@@ -2830,7 +2830,7 @@ Other services.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/otherServices
 * **Values**
@@ -2992,7 +2992,7 @@ Facility certificates.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityCertificates
 * **Values**
@@ -3534,7 +3534,7 @@ RID classes.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/storageRidClasses
 * **Values**
@@ -4855,7 +4855,7 @@ CRD primary  location ID.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/crdPrimaryLocation
 * **Values**
@@ -4912,7 +4912,7 @@ CRD subsidiary location ID.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/crdSubsidiaryLocation
 * **Values**
@@ -4969,7 +4969,7 @@ RINF operational point.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/rinfOperationalPoint
 * **Values**
@@ -5026,7 +5026,7 @@ Street, house number
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityStreet
 * **Values**
@@ -5080,7 +5080,7 @@ ZIP code.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityZip
 * **Values**
@@ -5134,7 +5134,7 @@ Town.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityTown
 * **Values**
@@ -5188,7 +5188,7 @@ Country.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/facilityCountry
 * **Values**
@@ -5242,7 +5242,7 @@ Connection of facility to public rail network.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/connectionToPublicRailNetwork
 * **Values**
@@ -5485,7 +5485,7 @@ Facility opening times.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/openingTimes
 * **Values**
@@ -7416,7 +7416,7 @@ Other Equipment.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/otherEquipment
 * **Values**
@@ -9437,7 +9437,7 @@ Access line clearance gauge.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/accessLineClearanceGauge
 * **Values**
@@ -10410,7 +10410,7 @@ RID classes.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/ridClasses
 * **Values**
@@ -10641,7 +10641,7 @@ Other cargo types.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/otherCargoTypes
 * **Values**
@@ -11027,7 +11027,7 @@ Information on temporary capacity restrictions.
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/temporaryCapacityRestrictions
 * **Values**
