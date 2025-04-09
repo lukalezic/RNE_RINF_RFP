@@ -189,7 +189,7 @@ Internal system facility ID
 
 ### Data Format
 * **Data Presentation**
-*String*
+[string](https://www.w3.org/2001/XMLSchema#string)
 * **Taxonomy Reference**
 http://data.europa.eu/949/id
 * **Values**
