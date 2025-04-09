@@ -1511,7 +1511,7 @@ Explanation of the relation between several operators, if relevant.
 
 ### Data Format
 * **Data Presentation**
--
+
 * **Taxonomy Reference**
 http://data.europa.eu/949/operatorsRelation
 * **Values**
@@ -2884,7 +2884,7 @@ Description of services.
 
 ### Data Format
 * **Data Presentation**
--
+
 * **Taxonomy Reference**
 http://data.europa.eu/949/descriptionOfServices
 * **Values**
@@ -2938,7 +2938,7 @@ Timetable for service trains.
 
 ### Data Format
 * **Data Presentation**
--
+
 * **Taxonomy Reference**
 http://data.europa.eu/949/timetableServiceTrains
 * **Values**
@@ -5370,7 +5370,7 @@ Conditions for road access.
 
 ### Data Format
 * **Data Presentation**
--
+
 * **Taxonomy Reference**
 http://data.europa.eu/949/roadAccessConditions
 * **Values**
@@ -6836,7 +6836,7 @@ Description of the technical characteristics of the facility.
 
 ### Data Format
 * **Data Presentation**
--
+
 * **Taxonomy Reference**
 http://data.europa.eu/949/descriptionOfTechnicalCharacteristics
 * **Values**
@@ -6890,7 +6890,7 @@ Technical map.
 
 ### Data Format
 * **Data Presentation**
--
+
 * **Taxonomy Reference**
 http://data.europa.eu/949/technicalMap
 * **Values**
@@ -7470,7 +7470,7 @@ Description of technical equipment (particularly washing, maintenance).
 
 ### Data Format
 * **Data Presentation**
--
+
 * **Taxonomy Reference**
 http://data.europa.eu/949/descriptionTechnicalEquipment
 * **Values**
@@ -8603,7 +8603,7 @@ Planned changes in technical characteristics.
 
 ### Data Format
 * **Data Presentation**
--
+
 * **Taxonomy Reference**
 http://data.europa.eu/949/plannedChangesTechnicalCharacteristics
 * **Values**
@@ -8657,7 +8657,7 @@ Information on charges.
 
 ### Data Format
 * **Data Presentation**
--
+
 * **Taxonomy Reference**
 http://data.europa.eu/949/informationOnCharges
 * **Values**
@@ -8711,7 +8711,7 @@ Information on discounts.
 
 ### Data Format
 * **Data Presentation**
--
+
 * **Taxonomy Reference**
 http://data.europa.eu/949/informationOnDiscounts
 * **Values**
@@ -8826,7 +8826,7 @@ Legal requirements.
 
 ### Data Format
 * **Data Presentation**
--
+
 * **Taxonomy Reference**
 http://data.europa.eu/949/legalRequirements
 * **Values**
@@ -10695,7 +10695,7 @@ Self-supply of rail-related services.
 
 ### Data Format
 * **Data Presentation**
--
+
 * **Taxonomy Reference**
 http://data.europa.eu/949/selfSupplyOfRailRelatedServices
 * **Values**
@@ -10749,7 +10749,7 @@ IT systems.
 
 ### Data Format
 * **Data Presentation**
--
+
 * **Taxonomy Reference**
 http://data.europa.eu/949/itSystems
 * **Values**
@@ -10803,7 +10803,7 @@ Requests for access or services.
 
 ### Data Format
 * **Data Presentation**
--
+
 * **Taxonomy Reference**
 http://data.europa.eu/949/requestsForAccessOrServices
 * **Values**
@@ -10857,7 +10857,7 @@ Booking forms, time limits for booking, cancellation conditions, special require
 
 ### Data Format
 * **Data Presentation**
--
+
 * **Taxonomy Reference**
 http://data.europa.eu/949/bookingConditions
 * **Values**
@@ -10912,7 +10912,7 @@ Response to requests.
 
 ### Data Format
 * **Data Presentation**
--
+
 * **Taxonomy Reference**
 http://data.europa.eu/949/responseToRequests
 * **Values**
@@ -11081,7 +11081,7 @@ Cooperation between the SF and IMs.
 
 ### Data Format
 * **Data Presentation**
--
+
 * **Taxonomy Reference**
 http://data.europa.eu/949/cooperationBetweenSfAndIm
 * **Values**
