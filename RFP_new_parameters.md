@@ -10158,7 +10158,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 4(2)(c) and (d) of Reg. 2017/2177) 
 
 ------------------------------------------------------------
 
@@ -10217,7 +10217,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 4(2)(c) and (d) of Reg. 2017/2177) 
 
 ------------------------------------------------------------
 
@@ -10276,7 +10276,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 4(2)(c) and (d) of Reg. 2017/2177) 
 
 ------------------------------------------------------------
 
@@ -10335,7 +10335,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 4(2)(c) and (d) of Reg. 2017/2177) 
 
 ------------------------------------------------------------
 
@@ -10394,7 +10394,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 4(2)(c) and (d) of Reg. 2017/2177) 
 
 ------------------------------------------------------------
 
@@ -10448,7 +10448,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 4(2)(c) and (d) of Reg. 2017/2177) 
 
 ------------------------------------------------------------
 
@@ -10507,7 +10507,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 4(2)(c) and (d) of Reg. 2017/2177) 
 
 ------------------------------------------------------------
 
@@ -10566,7 +10566,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 4(2)(c) and (d) of Reg. 2017/2177) 
 
 ------------------------------------------------------------
 
@@ -10625,7 +10625,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 4(2)(c) and (d) of Reg. 2017/2177) 
 
 ------------------------------------------------------------
 
@@ -10679,7 +10679,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 4(2)(c) and (d) of Reg. 2017/2177) 
 
 ------------------------------------------------------------
 
@@ -10733,7 +10733,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 3(8) and Art. 4(2)(e) of Reg. 2017/2177) 
 
 ------------------------------------------------------------
 
@@ -10787,7 +10787,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 5 property (Access Conditions).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 4(2)(j) of Reg. 2017/2177) 
 
 ------------------------------------------------------------
 
@@ -10841,7 +10841,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 6 property (Capacity Allocation).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 4(2) letters (f),(g)and (h) of Reg. 2017/2177) 
 
 ------------------------------------------------------------
 
@@ -10895,7 +10895,8 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 6 property (Capacity Allocation).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 4(2)(f) and (h) of Reg. 2017/2177) 
+
 
 ------------------------------------------------------------
 
@@ -10949,7 +10950,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 6 property (Capacity Allocation).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 4(2)letters (f),(h) and (k) of Reg. 2017/2177) 
 
 ------------------------------------------------------------
 
@@ -11010,7 +11011,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 6 property (Capacity Allocation).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 3(4) and Art. 6(2) of Reg. 2017/2177) 
 
 ------------------------------------------------------------
 
@@ -11064,7 +11065,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 6 property (Capacity Allocation).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 4(2)(l) of Reg. 2017/2177) 
 
 ------------------------------------------------------------
 
@@ -11118,7 +11119,7 @@ http://data.europa.eu/949/ServiceFacility
 	This property is considered as Type 6 property (Capacity Allocation).
 
 * **Regulation**: 
-	None
+	Mandatory by law (Art. 7 of Reg. 2017/2177) 
 
 ------------------------------------------------------------
 
