@@ -1,10 +1,7 @@
 ﻿# PROPOSED PARAMETERS FROM RFP TO BE ADDED TO ERA ONTOLOGY
 ## Problem setting
 
-As part of RNE’s work supporting the IMs digitalising their network statement, RNE has been
-contracted to study, define and propose additional infrastructure parameters which would be
-needed for RINF to effectively cover the nature of the infrastructure part of the Rail-FacilitiesPortal. After comparison between the parameters of the RFP with those of the RINF Register of
-Infrastructure and ERA Vocabulary, RNE proposed the following parameters to enrich ERA Ontology and as inputs for future developments of the RINF application.
+As part of RNE’s efforts to support Infrastructure Managers in digitalising their network statements, RNE is listing all RFP parameters in the ERA Ontology format. Some of the listed parameters will be required for RINF to effectively represent the infrastructure aspects of the Rail Facilities Portal.
 
 ## Proposed solution
 # Classes
